@@ -5,6 +5,10 @@ Google maps's photos auto downloader script
 
 파이썬 코드로 작성했으며, Instruction의 순서를 따라서 이용해 주시면 됩니다.
 
+## License
+
+MIT © <a href="https://github.com/Adsenser/">Adsenser</a>
+
 ## Instruction
 
 First of all, we need the kml file of Google Maps.
