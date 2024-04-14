@@ -13,7 +13,7 @@ file_path ='example.kml'
 # From below, you can modify code if you need it.
 # 이 밑에서부터는 필요할 경우만 수정해 주시면 됩니다.
 
-The converted xml file is created under the name extracted_places.xml on the same path.
+# The converted xml file is created under the name extracted_places.xml on the same path.
 # 변환된 xml 파일은 동일 경로상에 extracted_places.xml 이름으로 생성됩니다.
 
 ###########
