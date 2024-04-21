@@ -20,10 +20,14 @@ First of all, we need the kml file of Google Maps.
 2. Check 'Export as KML instead of KMZ.'
 3. Click 'OK'
 
+### Convert to XML
+
 then, it is necessary to convert the kml file into xml format.
 
 1. Open the 'kml-to-xml.py' script and enter the path of the kml file you want to extract.
 2. Follow the instructions in the .py comment.
+
+### Auto download
 
 Now, We can download photos in kml
 
